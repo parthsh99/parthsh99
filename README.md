@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and implementing Data analysis, data engineer , data science projects
 - 🌱 I’m currently learning Python , SQL (POSTgres , MS SQL SERVER) , Data warehousing, Hadoop, Apache Spark 
 - 💞️ I’m looking to collaborate,contribute on data analytics, data engineering open source projects
-- 📫 How to reach me : Email - parth99jan@gmail.com
+
 
 <!---
 parthsh99/parthsh99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
